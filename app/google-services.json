@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "490849791347",
+    "project_id": "to-do-7d9e9",
+    "storage_bucket": "to-do-7d9e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490849791347:android:ca5ab73f8e313179e7e906",
+        "android_client_info": {
+          "package_name": "com.oneOfMyProjectByTeTe.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490849791347-o3ji2l4kl1ku0n84f8k0b4hlkogpp3cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb0P8j3S8zhPnMSOuvwZbRFCX8GJMUWT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490849791347-o3ji2l4kl1ku0n84f8k0b4hlkogpp3cf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
